@@ -1,7 +1,7 @@
 - 👋 Hi, I’m navid
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Developing
 - 📫 How to reach me: Telegram:@navid1256 
 
 <!---
